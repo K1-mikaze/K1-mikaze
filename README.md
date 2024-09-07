@@ -1,8 +1,6 @@
-## K1mikaze
-
-<<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K1-mikaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Languages" height="180" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=K1-mikaze&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K1-mikaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Languages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=K1-mikaze&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -41,11 +39,5 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/K1-mikaze/K1-mikaze/output/snake.svg" alt="Snake animation" />
 
 ###
