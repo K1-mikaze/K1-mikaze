@@ -1,6 +1,5 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K1-mikaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="175" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=K1-mikaze&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="175" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K1-mikaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
@@ -43,6 +42,19 @@
   <a href="https://www.linkedin.com/in/sergio-idarraga-aguirre-b8473a319/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="50" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K1-mikaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=K1-mikaze&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K1-mikaze&radius=1&theme=high-contrast&area=true&order=5&hide_title=true&hide_border=false&custom_title=queloque" height="350" alt="activity-graph graph"  />
 </div>
 
 ###
