@@ -6,15 +6,15 @@
 
 ###
 
-<p align="left">My name is K1-mikaze and I'm a System engineering student from Colombia who wants to share his proyects and at the time keep learning about the beutiful world of Software.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Spring and C++ <br>🎯 Goals: Keep learning and get a Job<br>🎲 Fun fact: I want to learn EVERYTHING</p>
+<p align="center">My name is K1-mikaze and I'm a System engineering student from Colombia who wants to share his proyects and at the time keep learning about the beutiful world of Software.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Spring and C++ <br>🎯 Goals: Keep learning and get a Job<br>🎲 Fun fact: I want to learn EVERYTHING</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K1-mikaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K1-mikaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=K1-mikaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
 </div>
 
 ###
